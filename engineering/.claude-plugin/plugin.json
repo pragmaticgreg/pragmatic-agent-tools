@@ -1,0 +1,21 @@
+{
+  "name": "engineering",
+  "description": "Engineering workflow skills for code review, debugging, architecture, system design, documentation, testing strategy, tech debt, deploy checklists, standups, and incident response.",
+  "version": "1.0.0",
+  "author": {
+    "name": "pragmaticgreg"
+  },
+  "repository": "https://github.com/pragmaticgreg/pragmatic-agent-tools",
+  "skills": [
+    "./skills/architecture",
+    "./skills/code-review",
+    "./skills/debug",
+    "./skills/deploy-checklist",
+    "./skills/documentation",
+    "./skills/incident-response",
+    "./skills/standup",
+    "./skills/system-design",
+    "./skills/tech-debt",
+    "./skills/testing-strategy"
+  ]
+}

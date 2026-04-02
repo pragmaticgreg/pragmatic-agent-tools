@@ -1,0 +1,15 @@
+{
+  "name": "clickup",
+  "description": "ClickUp task management integration with productivity skills for task tracking, memory management, and workflow updates.",
+  "version": "1.0.0",
+  "author": {
+    "name": "pragmaticgreg"
+  },
+  "repository": "https://github.com/pragmaticgreg/pragmatic-agent-tools",
+  "skills": [
+    "./skills/task-management",
+    "./skills/update",
+    "./skills/start",
+    "./skills/memory-management"
+  ]
+}
