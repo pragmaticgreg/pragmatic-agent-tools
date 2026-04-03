@@ -1,0 +1,20 @@
+{
+  "name": "pragmatic-agent-tools",
+  "owner": {
+    "name": "pragmaticgreg"
+  },
+  "plugins": [
+    {
+      "name": "clickup",
+      "source": "./clickup",
+      "description": "ClickUp task management integration with productivity skills.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "engineering",
+      "source": "./engineering",
+      "description": "Engineering workflow skills for code review, debugging, architecture, and more.",
+      "version": "1.0.0"
+    }
+  ]
+}
